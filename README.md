@@ -1,16 +1,16 @@
-# Hi there, I'm [Patricia Akumu]! 👋
+# Hi there, I'm Patricia Akumu! 👋
 
-![Banner Image](https://drive.google.com/file/d/1uVA_C1XkpVUlG_U6ObGxJ5tQhRnrfSZY/view?usp=sharing)
+![Banner Image](https://github.com/patsywinny/Patricia-Akumu/blob/main/portifolio-leonado2.jpg)
 
 ## About Me 🚀
 
 I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[AI and Machine Learning]**
-- 🔭 Working on: **[Bakend development and API intergrations]**
-- 🌍 Languages: **[English ,kiswahili ,Spanish, python ,Javascript , HtML,CSS and more]**
-- 📫 How to reach me: **[akumupatricia25@gmail.com]**
-- ⚡ Fun fact: **[I am Kenyan ,i love food and speaking Spanish]**
+- 🌱 Currently learning: **AI and Machine Learning**
+- 🔭 Working on: **Bakend development and API intergrations**
+- 🌍 Languages: **English ,kiswahili ,Spanish, python ,Javascript , HtML,CSS and more**
+- 📫 How to reach me: **akumupatricia25@gmail.com**
+- ⚡ Fun fact: **I am Kenyan ,i love food and speaking Spanish**
 
 ## My Skills 🧠
 
@@ -22,7 +22,7 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=Flask&logoColor=Black&logoSize=auto&labelColor=black&color=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=Bootstrap&logoSize=auto&labelColor=black&color=purple)
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+
 
 ## Featured Projects 💻
 
@@ -40,8 +40,8 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **Personal Website **(https://github.com/patsywinny/my_portofolio)
+- **LinkedIn**(https://www.linkedin.com/in/patricia-akumu-33b2b12b1/)
+- **Whatsapp**(https://wa.me/254740090713)
 
 
