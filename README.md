@@ -1,6 +1,6 @@
 # Hi there, I'm [Patricia Akumu]! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](https://drive.google.com/file/d/1uVA_C1XkpVUlG_U6ObGxJ5tQhRnrfSZY/view?usp=sharing)
 
 ## About Me 🚀
 
