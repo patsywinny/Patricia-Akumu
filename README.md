@@ -40,7 +40,7 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 
 ## Get in Touch 📬
 
-- **Personal Website **(https://github.com/patsywinny/my_portofolio)
+- **Personal Website**(https://github.com/patsywinny/my_portofolio)
 - **LinkedIn**(https://www.linkedin.com/in/patricia-akumu-33b2b12b1/)
 - **Whatsapp**(https://wa.me/254740090713)
 
